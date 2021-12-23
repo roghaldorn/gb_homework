@@ -1,4 +1,4 @@
-# homework_1_1 - преобразование секунд к минутам/часам/дням
+# homework_1_1 - преобразование секунд к минутам/часам/дням.
 def homework_1_1(time_duration):
     sec_in_mins, sec_in_hours, sec_in_days = 60, 3600, 86400
 
